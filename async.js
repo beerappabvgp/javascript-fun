@@ -1,5 +1,7 @@
 let asyncTask = async () => {
-    let data = ["Dheeraj", "Abhishek", "Vishnu", "Dinesh"]
+    // let data = ["Dheeraj", "Abhishek", "Vishnu", "Dinesh"]
+    // let data  = "Tahir"
+    // let data = "Shilpa"
     return data;
 }
 
