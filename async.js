@@ -4,7 +4,6 @@ let asyncTask = async () => {
     // let data = "Shilpa"
     return data;
 }
-
 let main = async () => {
     console.log("start of the program .....")
     let response = await asyncTask()
